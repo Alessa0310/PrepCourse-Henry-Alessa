@@ -1,2 +1,2 @@
-# PrepCourse-Henry-Alessa
-Este es un repositorio de prueba del modulo 2 del prep course
+Prueba de como crear un repositorio y clonarlo desde github a la computadora
+
